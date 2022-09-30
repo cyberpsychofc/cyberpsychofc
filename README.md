@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Aryan</h1>
-<h3 align="left">My name is Om Aryan, I am a College Freshman, my interests comprise of Cybersecurity, App Development and Data Science. My strengths include Java, Python and Linux Kernel.</h3>
+<i align="left">My name is Om Aryan, I am a College Freshman, my interests comprise of Cybersecurity, App Development and Data Science. My strengths include Java, Python and Linux Kernel.</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,7 +8,6 @@
 <a href="https://stackoverflow.com/users/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="null" height="30" width="40" /></a>
 <a href="https://instagram.com/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="null" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="null" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="null" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="null" height="30" width="40" /></a>
 </p>
 

@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberpsychofc/cyberpsychofc/main/profile-3d-contrib/profile-green-animate.svg" />
   <img src="https://raw.githubusercontent.com/cyberpsychofc/cyberpsychofc/main/profile-3d-contrib/profile-night-view.svg" />
 </picture>
+<!--<img src="https://profile-counter.glitch.me/cyberpsychofc/count.svg"/>-->
 <div>
   <div>
 <h4 align="left">Leetcode</h4>

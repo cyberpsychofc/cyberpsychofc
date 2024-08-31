@@ -5,15 +5,10 @@
   <img src="https://raw.githubusercontent.com/cyberpsychofc/cyberpsychofc/main/profile-3d-contrib/profile-night-view.svg" />
 </picture>
 <!--<img src="https://profile-counter.glitch.me/cyberpsychofc/count.svg"/>-->
-<div>
-  <div>
+<p align="center">
 <h4 align="left">Leetcode</h4>
-<p align="left">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/cyberpsych?theme=dark&font=Arial&ext=heatmap" />  
-</p>
-  </div>
-  <div>
-<h4 align="left">Badges</h4>
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/cyberpsych?theme=dark&font=Arial&ext=heatmap" />  
+  <h4 align="left">Badges</h4>
 <a href="https://leetcode.com/cyberpsych/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="bdge" height="100" width="100" /></a>
-  </div>
-</div>
+<a href="https://leetcode.com/cyberpsych/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-8.png" alt="bdge" height="100" width="100" /></a>
+  </p>

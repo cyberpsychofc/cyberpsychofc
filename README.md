@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=0366D6&center=true&vCenter=true&width=700&lines=Hey+there!;I+am+Aryan;Software+Developer+%7C+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=0366D6&center=true&vCenter=true&width=700&lines=Hey+there!;I+am+Aryan;I+love+to+build+and+deploy+applications" />
 </p>
 
 ## 📖 About Me | [Portfolio](https://omaryan.vercel.app)

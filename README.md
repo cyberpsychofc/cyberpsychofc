@@ -6,7 +6,7 @@
 ```txt
 Name:         Aryan
 Role:         Software Developer
-Interest:     Large Language Models, Spring Boot, Django
+Interest:     Large Language Models, Operating Systems, Spring Boot, Django
 Philosophy:   Chase your ground state.
 ```
 ## 🛠️ Tech Stack

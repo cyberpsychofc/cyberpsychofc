@@ -17,6 +17,8 @@ languages:
 frameworks:
   - Django
   - Spring Boot
+  - LangChain
+  - LangGraph
   - SvelteKit
 infra:
   - Docker

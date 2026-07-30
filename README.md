@@ -6,7 +6,7 @@
 ```txt
 Name:         Aryan
 Role:         Software Developer
-Interest:     Large Language Models, Operating Systems, Django
+Interest:     Cloud, Large Language Models, Operating Systems, Django
 Philosophy:   Build smart machines so that you can do something much more meaningful.
 ```
 ## 🛠️ Tech Stack

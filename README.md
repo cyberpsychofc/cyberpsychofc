@@ -25,7 +25,7 @@ infra:
   - Redis
   - PostgreSQL
 ```
-
+<!--
 ## GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberpsychofc/cyberpsychofc/main/profile-3d-contrib/profile-night-view.svg" />
@@ -33,7 +33,7 @@ infra:
   <img src="https://raw.githubusercontent.com/cyberpsychofc/cyberpsychofc/main/profile-3d-contrib/profile-night-view.svg" />
 </picture>
 
-<!--<img src="https://profile-counter.glitch.me/cyberpsychofc/count.svg"/>-->
+<img src="https://profile-counter.glitch.me/cyberpsychofc/count.svg"/>-->
 <!--
 <p align="center">
 <h4 align="left">Leetcode</h4>
